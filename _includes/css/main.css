@@ -141,7 +141,7 @@ header .intro-text .skills {
 
     .navbar-fixed-top.navbar-shrink {
         padding: 10px 0;
-        color: #{{ site.color.secondary }} /*i did this*/
+        /*color: #{{ site.color.secondary }} i did this*/
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
