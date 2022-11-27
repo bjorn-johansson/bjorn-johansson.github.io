@@ -1176,7 +1176,8 @@ img {
     display: block;
     width: 100% \9;
     max-width: 100%;
-    height: auto
+    height: auto;
+    border-radius: 18%;
 }
 
 .img-rounded {
