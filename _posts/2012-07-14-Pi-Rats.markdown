@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2022-07-14
+img: pirats.jpg
+alt: image-alt
+project-date: April 2022
+client: University Project
+category: Programming & Game Design
+description: 2nd year university project made in Unreal, featured an infinitely stacking upgrade system that let you slowly break the game as you fought off enemies and stole their loot while preparing to fight The Kraken. 
+---
