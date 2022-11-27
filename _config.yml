@@ -2,7 +2,7 @@
 title: Björn Johansson
 email: bbjornjohansson@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "I'm Björn, a games programmer & designer from the middle of Sweden. Currently working on my bachelor's in GameDesign & #Programming at Uppsala University. On top of my relevant fields I'm a huge fan of freeride/powder skiing, skateboarding and all things games & ttrpg!"
 keywords: "your keywords, separated by commas"
 skills: "Programming - Game Design - IT"
 meta_author: Johansson Björn
@@ -25,10 +25,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: e35a01 #80B3FF
+  primary-rgb: "227,90,1" #"128,179,255"
+  secondary: 2e4769 #FD6E8A
+  secondary-dark: 1f262e #A2122F
 
 # Footer settings
 footer:
@@ -39,21 +39,21 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: Mastodon
+    url: https://peoplemaking.games/@Bjorn
+  - title: Linked-In
+    url: https://www.linkedin.com/in/bj%C3%B6rn-johansson-84470b1ba/
+  - title:
+    url: 
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: 
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/bjorn-johansson
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Byrumsgatan 23
+  - line: Visby, Gotland, Sweden
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
