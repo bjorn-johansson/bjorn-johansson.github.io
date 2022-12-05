@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2022
 client: University Project
 category: Programming & Game Design
-description: 2nd year university project made in Unreal. Featured an infinitely stacking upgrade system that let you slowly break your game as you combat enemy ships and steal their loot while preparing to fight Captain Kraken. 
+description: 2nd year university project made in Unreal. Featured an infinitely stacking upgrade system that let you slowly break your game as you combat enemy ships and steal their loot while preparing to fight Captain Kraken. <a href="https://chikinnoodlesupp.itch.io/pi-rats">Itch.io Page</a>
 ---
