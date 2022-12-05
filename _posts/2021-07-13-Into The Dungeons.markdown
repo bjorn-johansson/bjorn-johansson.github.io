@@ -7,5 +7,5 @@ alt: image-alt
 project-date: June 2021
 client: University Project
 category: Game Design & Programming
-description: A game made as part of a university course that was signed up for the Gotland Game Conference. We ended up winning the Innovation Award and placed 4th Best in Show. <a href="https://demonic-chicken-studios.itch.io/into-the-dungeons">Itch.io Page</a>
+description: A game made as part of a university course that was signed up for the Gotland Game Conference. We ended up winning the Innovation Award and placed 4th Best in Show. <br><a href="https://demonic-chicken-studios.itch.io/into-the-dungeons">Itch.io Page</a>
 ---
