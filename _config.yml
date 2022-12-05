@@ -17,7 +17,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+#contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -43,15 +43,9 @@ social:
     url: https://peoplemaking.games/@Bjorn
   - title: linkedin
     url: https://www.linkedin.com/in/bj%C3%B6rn-johansson-84470b1ba/
-<<<<<<< HEAD
   - title: envelope
     url: mailto:bbjornjohansson@gmail.com
   - title: itch-io
-=======
-  - title:
-    url: 
-  - title: Itch.io
->>>>>>> parent of 6ff1c9b (its fixed! vs2022 moment)
     url: https://outplayd.itch.io/
   - title: github
     url: http://github.com/bjorn-johansson
