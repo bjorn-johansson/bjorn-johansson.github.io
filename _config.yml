@@ -28,7 +28,7 @@ color:
   primary: 81ABBC #80B3FF 
   primary-rgb: "129, 171, 188" #"128,179,255"
   secondary: e6b451 #FD6E8A
-  secondary-dark: e6b451 #A2122F
+  secondary-dark: 91A5A1 #A2122F
 
 # Footer settings
 footer:
@@ -43,8 +43,8 @@ social:
     url: https://peoplemaking.games/@Bjorn
   - title: Linked-In
     url: https://www.linkedin.com/in/bj%C3%B6rn-johansson-84470b1ba/
-  - title:
-    url: 
+  - title: Email
+    url: mailto:bbjornjohansson@gmail.com
   - title: Itch.io
     url: https://outplayd.itch.io/
   - title: GitHub
