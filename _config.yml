@@ -39,15 +39,15 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: mastodon
+  - title: fa-brands fa-mastodon
     url: https://peoplemaking.games/@Bjorn
-  - title: linkedin
+  - title: fa-brands fa-linkedin
     url: https://www.linkedin.com/in/bj%C3%B6rn-johansson-84470b1ba/
-  - title: envelope
+  - title: fa-solid fa-envelope
     url: mailto:bbjornjohansson@gmail.com
-  - title: itch-io
+  - title: fa-brands fa-itch-io
     url: https://outplayd.itch.io/
-  - title: github
+  - title: fa-brands fa-github
     url: http://github.com/bjorn-johansson
 
 # Postal address (add as many lines as necessary)
