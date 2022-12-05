@@ -55,7 +55,8 @@ address:
   - line: Byrumsgatan 23
   - line: Visby, Gotland, Sweden
 
-# Credits content credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# Credits content 
+credits: 'testing to see if this is actually changing it'
 
 # Build settings
 markdown: kramdown
