@@ -32,22 +32,22 @@ color:
 
 # Footer settings
 footer:
-  copyright: Björn Johansson
+  #copyright: Björn Johansson 2022
   location: Byrumsgatan 23
   social: 
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: Mastodon
+  - title: mastodon
     url: https://peoplemaking.games/@Bjorn
-  - title: Linked-In
+  - title: linkedin
     url: https://www.linkedin.com/in/bj%C3%B6rn-johansson-84470b1ba/
-  - title: Email
+  - title: envelope
     url: mailto:bbjornjohansson@gmail.com
-  - title: Itch.io
+  - title: itch-io
     url: https://outplayd.itch.io/
-  - title: GitHub
+  - title: github
     url: http://github.com/bjorn-johansson
 
 # Postal address (add as many lines as necessary)
