@@ -56,7 +56,7 @@ address:
   - line: Visby, Gotland, Sweden
 
 # Credits content 
-credits: 'testing to see if this is actually changing it'
+credits: This site was made with Jekyll by GitHub using <a href="https://jeromelachaud.com/freelancer-theme">Freelancer Theme</a>
 
 # Build settings
 markdown: kramdown
