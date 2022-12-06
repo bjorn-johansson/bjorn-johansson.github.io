@@ -7,5 +7,5 @@ alt: image-alt
 project-date: September 2022
 client: Fun!
 category: AI Programming
-description: An experimental project to test out the Unity DOTS Entity Component System workflow. A 5000 entity 3D Particle Swarm using Boids algorithm, with pretty colors!
+description: An experimental project to test out the Unity DOTS Entity Component System workflow. A 5000 entity 3D Particle Swarm using Boids algorithm, with pretty colors to boot! <br><a href="https://github.com/bjorn-johansson/Unity-DOTS-Boids">Github Repo</a>
 ---
